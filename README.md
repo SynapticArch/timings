@@ -83,6 +83,8 @@ Remember: [when to fork](http://jamesdixon.wordpress.com/forking-protocol-why-wh
 I'm totally open to any reasonable improvement. So if you think it can be better, talk to me on Spigot or Esper IRC and PR :)
 
 If I disappear from Minecraft, then please keep this tool alive!
+> [!CAUTION]  
+> This branch is only for personal development, study and research. Please do not use any attachments directly. The author is not responsible for any problems with the source attachments.
 # Statement
 
 > [!CAUTION]  
